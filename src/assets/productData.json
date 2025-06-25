@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Product-1",
+    "description": "This is a brief description of Product-1.",
+    "price": 93.07,
+    "stock": 78,
+    "image": "https://fakeimg.pl/250x250/?text=Product-1&font=lobster",
+    "category": "Books",
+    "rating": 2.7
+  },
+  {
+    "id": 2,
+    "name": "Product-2",
+    "description": "This is a brief description of Product-2.",
+    "price": 45.99,
+    "stock": 32,
+    "image": "https://fakeimg.pl/250x250/?text=Product-2&font=lobster",
+    "category": "Electronics",
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "name": "Product-3",
+    "description": "This is a brief description of Product-3.",
+    "price": 120.00,
+    "stock": 20,
+    "image": "https://fakeimg.pl/250x250/?text=Product-3&font=lobster",
+    "category": "Clothing",
+    "rating": 3.9
+  },
+  {
+    "id": 4,
+    "name": "Product-4",
+    "description": "This is a brief description of Product-4.",
+    "price": 15.49,
+    "stock": 150,
+    "image": "https://fakeimg.pl/250x250/?text=Product-4&font=lobster",
+    "category": "Toys",
+    "rating": 4.0
+  },
+  {
+    "id": 5,
+    "name": "Product-5",
+    "description": "This is a brief description of Product-5.",
+    "price": 99.95,
+    "stock": 10,
+    "image": "https://fakeimg.pl/250x250/?text=Product-5&font=lobster",
+    "category": "Books",
+    "rating": 2.5
+  },
+  {
+    "id": 6,
+    "name": "Product-6",
+    "description": "This is a brief description of Product-6.",
+    "price": 60.50,
+    "stock": 88,
+    "image": "https://fakeimg.pl/250x250/?text=Product-6&font=lobster",
+    "category": "Electronics",
+    "rating": 3.7
+  },
+  {
+    "id": 7,
+    "name": "Product-7",
+    "description": "This is a brief description of Product-7.",
+    "price": 34.89,
+    "stock": 76,
+    "image": "https://fakeimg.pl/250x250/?text=Product-7&font=lobster",
+    "category": "Clothing",
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "name": "Product-8",
+    "description": "This is a brief description of Product-8.",
+    "price": 150.00,
+    "stock": 12,
+    "image": "https://fakeimg.pl/250x250/?text=Product-8&font=lobster",
+    "category": "Toys",
+    "rating": 4.4
+  },
+  {
+    "id": 9,
+    "name": "Product-9",
+    "description": "This is a brief description of Product-9.",
+    "price": 19.99,
+    "stock": 200,
+    "image": "https://fakeimg.pl/250x250/?text=Product-9&font=lobster",
+    "category": "Books",
+    "rating": 3.1
+  },
+  {
+    "id": 10,
+    "name": "Product-10",
+    "description": "This is a brief description of Product-10.",
+    "price": 82.75,
+    "stock": 54,
+    "image": "https://fakeimg.pl/250x250/?text=Product-10&font=lobster",
+    "category": "Electronics",
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "name": "Product-11",
+    "description": "This is a brief description of Product-11.",
+    "price": 70.00,
+    "stock": 29,
+    "image": "https://fakeimg.pl/250x250/?text=Product-11&font=lobster",
+    "category": "Clothing",
+    "rating": 3.5
+  },
+  {
+    "id": 12,
+    "name": "Product-12",
+    "description": "This is a brief description of Product-12.",
+    "price": 110.25,
+    "stock": 18,
+    "image": "https://fakeimg.pl/250x250/?text=Product-12&font=lobster",
+    "category": "Toys",
+    "rating": 4.9
+  },
+  {
+    "id": 13,
+    "name": "Product-13",
+    "description": "This is a brief description of Product-13.",
+    "price": 25.99,
+    "stock": 90,
+    "image": "https://fakeimg.pl/250x250/?text=Product-13&font=lobster",
+    "category": "Books",
+    "rating": 3.2
+  },
+  {
+    "id": 14,
+    "name": "Product-14",
+    "description": "This is a brief description of Product-14.",
+    "price": 40.00,
+    "stock": 60,
+    "image": "https://fakeimg.pl/250x250/?text=Product-14&font=lobster",
+    "category": "Electronics",
+    "rating": 4.0
+  },
+  {
+    "id": 15,
+    "name": "Product-15",
+    "description": "This is a brief description of Product-15.",
+    "price": 135.99,
+    "stock": 5,
+    "image": "https://fakeimg.pl/250x250/?text=Product-15&font=lobster",
+    "category": "Clothing",
+    "rating": 1
+  }
+]
