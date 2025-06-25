@@ -3,9 +3,10 @@ import { createRoot } from "react-dom/client";
 import "./index.css";
 import App from "./App.jsx";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import About from "./pages/about.jsx";
+import About from "./pages/About.jsx";
 import Cart from "./pages/cart.jsx";
-import Contact from "./pages/Contect.jsx";
+import Contact from "./pages/Contact.jsx";
+
 
 import ProductList from "./Components/ProductList.jsx";
 import Product from "./pages/Product.jsx";
